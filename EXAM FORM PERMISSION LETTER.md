@@ -25,6 +25,7 @@ Please find enclosed herewith students applications received by the examination 
 | 1.          | B.Tech. (IT)  | 1507957            | Rajpreet Kaur       | Reappear              |
 | 2.          | B.Tech. (EE)  | 1728460            | Gurbaj Singh Rai    | Regular               |
 | 3.          | B.Tech. (ECE) | 100370101225       | Jagtinder Singh     | Reappear              |
+|4.| M. Tech| 
 
 #### 
 
